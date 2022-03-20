@@ -11,11 +11,11 @@ let lvl3 = 3;
 let lvl4 = 4;
 let lvl5 = 5;
 
-let scoreForLvl2 = 10;
-let scoreForLvl3 = 1;
-let scoreForLvl4 = 1;
-let scoreForLvl5 = 1;
-let scoreForEnd  = 1;
+let scoreForLvl2 = 5;
+let scoreForLvl3 = 6;
+let scoreForLvl4 = 7;
+let scoreForLvl5 = 8;
+let scoreForEnd  = 10;
 let needScore;
 
 let currentLvl = lvl1;
