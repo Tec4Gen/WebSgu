@@ -25,4 +25,4 @@
 npm run ci \
 npm run dev/prod
 
-<center>![image](https://user-images.githubusercontent.com/36798910/159179362-d68bb1ca-25cb-47d9-aa35-802062be8da3.png)</center>
+<span style="display:block;text-align:center">![image](https://user-images.githubusercontent.com/36798910/159179362-d68bb1ca-25cb-47d9-aa35-802062be8da3.png)</span>
