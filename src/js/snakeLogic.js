@@ -43,7 +43,7 @@ let moveY = 0;
 
 let trail = [];
 
-let tail = 3;
+let tail = 0;
 
 let totalScore = 0;
 let currentScore = 0;
@@ -89,6 +89,8 @@ function start() {
     }
 
     canv.onclick = function () {
+        tail = 3;
+        activeMove = 0;
         currentScore = 0;
         totalScore = 0;
         needScore = scoreForLvl2;
